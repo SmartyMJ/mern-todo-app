@@ -15,11 +15,11 @@ class App extends Component {
 			<Router>
 				<div className="container">
 					<nav className="navbar navbar-expand-lg navbar-light bg-light">
-						<a class="navbar-brand" href="https://www.nytimes.com" target="_blank">
+						<a className="navbar-brand" href="https://www.nytimes.com" target="_blank" rel="noopener noreferrer">
 							<img src={logo} width="23" height="30" alt="The New York Times" />
 						</a>
 					
-						<Link to="/" className="navbar-brand">To-Do with The Times</Link>
+						<Link to="/" className="navbar-brand">Todo with The Times</Link>
 						<div className="collapse navbar-collapse">
 							<ul className="navbar-nav mr-auto">
 								<li className="navbar-item">
