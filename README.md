@@ -1,5 +1,5 @@
 # Todo with The Times
-Simple CRUD (create, read, update, and delete) todo application
+Simple CRUD (create, read, update, and delete) web application using the MERN (MongoDB, Express, Node.js, React) stack
 
 **Instructions for running locally**
 1. Open a terminal window and `cd` to project directory
@@ -11,4 +11,4 @@ Simple CRUD (create, read, update, and delete) todo application
 
 **Notes**
 - This project was created during Maker Week 2019 at The New York Times.
-- Some of the code was adapted from [this CodingTheSmartWay.com tutorial](https://codingthesmartway.com/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-1/).
+- Some of the code was adapted from a CodingTheSmartWay.com [tutorial](https://codingthesmartway.com/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-1/).
